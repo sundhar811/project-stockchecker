@@ -8,4 +8,8 @@ Project Stock Price Checker
 3) You will add any security features to `server.js`
 4) You will create all of the functional tests in `tests/2_functional-tests.js`
 
+## Challenge link
+https://www.freecodecamp.org/learn/information-security-and-quality-assurance/information-security-and-quality-assurance-projects/stock-price-checker
 
+## Project link
+https://glitch.com/~sundhar811-project-stockchecker
