@@ -15,7 +15,8 @@
     "chai-http": "^4.3.0",
     "mocha": "^6.2.1",
     "zombie": "^6.1.4",
-    "helmet": "^3.21.2"
+    "helmet": "^3.21.2",
+    "node-fetch": "^2.6.0"
   },
   "engines": {
     "node": "4.4.3"

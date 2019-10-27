@@ -7,6 +7,7 @@ dependencies:
   helmet: 3.21.2
   mocha: 6.2.2
   mongodb: 3.3.3
+  node-fetch: 2.6.0
   zombie: 6.1.4
 packages:
   /@types/chai/4.2.4:
@@ -1272,6 +1273,12 @@ packages:
     dev: false
     resolution:
       integrity: sha512-VNYPRfGfmZLx0Ye20jWzHUjyTW/c+6Wq+iLhDzUI4XmhrDd9l/FozXV3F2xOaXjvp0co0+v1YSR3CMP6g+VvLQ==
+  /node-fetch/2.6.0:
+    dev: false
+    engines:
+      node: 4.x || >=6.0.0
+    resolution:
+      integrity: sha512-8dG4H5ujfvFiqDmVu9fQ5bOHUC15JMjMY/Zumv26oOvvVJjM67KF8koCWIabKQ1GJIa9r2mMZscBq/TbdOcmNA==
   /nwsapi/2.1.4:
     dev: false
     resolution:
@@ -2075,4 +2082,5 @@ specifiers:
   helmet: ^3.21.2
   mocha: ^6.2.1
   mongodb: ^3.3.2
+  node-fetch: ^2.6.0
   zombie: ^6.1.4
